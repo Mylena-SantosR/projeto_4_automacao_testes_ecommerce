@@ -1,0 +1,9 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Logs e relatórios de teste (boa prática)
+.pytest_cache/
