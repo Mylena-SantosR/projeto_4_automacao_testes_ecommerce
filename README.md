@@ -1,4 +1,4 @@
-# Suíte de Testes Automatizados para E-commerce com Selenium e Pytest
+# Projeto de Testes Automatizados para E-commerce com Selenium e Pytest
 
 Este projeto demonstra a criação de uma suíte de testes automatizados para um site de e-commerce fictício, utilizando Python, Selenium e o framework Pytest.
 
